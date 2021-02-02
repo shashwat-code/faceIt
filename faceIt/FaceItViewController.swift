@@ -7,10 +7,12 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class FaceItViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+//let path = BezierPath()
+        
         // Do any additional setup after loading the view.
     }
 
